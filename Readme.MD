@@ -1,4 +1,4 @@
-# Nexus – Local AI Chatbot (Powered by Ollama & Gemma 2B)
+# Scrum – Local AI Chatbot (Powered by Ollama & Gemma 2B)
 
 **Nexus** is a lightweight local chatbot built using [Ollama](https://ollama.ai/) and the **Gemma 2B** model.  
 It’s designed to answer questions from user-provided files and documents directly on your system — no internet or external APIs required.
